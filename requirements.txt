@@ -1,0 +1,5 @@
+anthropic>=0.70
+ccxt>=4.3
+pandas>=2.2
+pydantic>=2.7
+pytest>=8.0
